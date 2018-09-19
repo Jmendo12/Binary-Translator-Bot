@@ -1,1 +1,2 @@
 # Binary-Translator-Bot
+Hello, welcome to my repository for the Binary Translator Bot! Have you ever browsed reddit, and seen a comment posted in binary that you either could not understand, or were too lazy to translate? Worry no more! The purpose of this program is to translate reddit comments posted in binary into English, so that even those who don't know binary can enjoy those comments. The program currently translates binary for letters in the format 01101000 01101001, but in the future I plan to expand to different formats, and all supported ASCII characters.
